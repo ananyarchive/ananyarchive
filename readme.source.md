@@ -22,15 +22,12 @@
     <ellipse cx="650" cy="110" rx="240" ry="170" fill="url(#p2)" />
   </svg>
 
-  <div style={{ display: 'flex', fontSize: 44, fontWeight: 800, color: '#ffffff', letterSpacing: '2px', zIndex: 10 }}>
-    ANANYA
-  </div>
-  <div style={{ display: 'flex', fontSize: 15, fontWeight: 600, color: '#ff8fc7', letterSpacing: '3px', marginTop: 6, zIndex: 10 }}>
-    SOFTWARE ENGINEER (IN THE MAKING)
-  </div>
-  <div style={{ display: 'flex', fontSize: 12, fontWeight: 400, color: 'rgba(255,220,240,0.55)', letterSpacing: '2px', marginTop: 10, zIndex: 10 }}>
-    DTU · SE'28 · NEW DELHI
-  </div>
+  <div style={{ display: 'flex', fontSize: 44, fontWeight: 500, fontStyle: 'italic', color: '#ffffff', letterSpacing: '1px', zIndex: 10 }}>
+  Ananya
+</div>
+<div style={{ display: 'flex', fontSize: 14, fontWeight: 400, fontStyle: 'italic', color: '#ff8fc7', letterSpacing: '2.5px', marginTop: 6, zIndex: 10 }}>
+  Software Engineer (in the making)
+</div>
 </div>
 ```
 
