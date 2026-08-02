@@ -121,7 +121,7 @@
 **Cloud & DevOps**
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws&theme=dark)](https://skillicons.dev)
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ananyarchive/ananyarchive/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
