@@ -22,7 +22,7 @@
     <ellipse cx="650" cy="110" rx="240" ry="170" fill="url(#p2)" />
   </svg>
 
-  <div style={{ display: 'flex', fontSize: 44, fontWeight: 500, fontStyle: 'italic', color: '#ffffff', letterSpacing: '1px', zIndex: 10 }}>
+<div style={{ display: 'flex', fontSize: 48, fontWeight: 600, fontStyle: 'italic', fontFamily: 'Fraunces', color: '#ffffff', letterSpacing: '0px', zIndex: 10 }}>
   Ananya
 </div>
 <div style={{ display: 'flex', fontSize: 14, fontWeight: 400, fontStyle: 'italic', color: '#ff8fc7', letterSpacing: '2.5px', marginTop: 6, zIndex: 10 }}>
